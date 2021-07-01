@@ -1,0 +1,23 @@
+
+.property-infos {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 40px;
+    box-shadow: 5px 5px 10px #e1e4ec;
+    height: fit-content;
+}
+
+.property-infos > img {
+    align-self: center;
+    object-fit:cover;
+    object-position: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.bold {
+    font-weight: bold;
+}
+

@@ -1,0 +1,30 @@
+html, body {
+    background-color:#EFF2F9;
+    margin: 0;
+    padding: 0;  
+}
+
+.app-body {
+    display: flex;
+    padding: 50px;
+}
+
+.app-body-left {
+    display: flex;
+    flex:0.2;
+    justify-content: center;
+}
+
+.app-body-center {
+    display: flex;
+    flex:1;
+
+    justify-content: center;
+}
+
+.app-body-right {
+    display: flex;
+    flex:0.3;
+
+    justify-content: center;
+}
