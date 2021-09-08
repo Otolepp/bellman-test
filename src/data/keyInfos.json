@@ -1,0 +1,46 @@
+{
+  "PROPERTY_1": [
+    {
+      "title": "keeper_hours",
+      "description": "[{\"label\":\"Lundi\",\"detail\":\"9:00 - 12:00 / 13:00 - 16:00\"},{\"label\":\"Mardi\",\"detail\":\"9:00 - 12:00 / 13:00 - 16:00\"},{\"label\":\"Mercredi\",\"detail\":\"9:00 - 12:00 / 13:00 - 16:00\"},{\"label\":\"Jeudi\",\"detail\":\"9:00 - 12:00 / 13:00 - 16:00\"},{\"label\":\"Vendredi\",\"detail\":\"9:00 - 12:00 / 13:00 - 16:00\"},{\"label\":\"Samedi\",\"detail\":\"9:00 - 12:00\"},{\"label\":\"Dimanche\",\"detail\":\"Repos\"}]",
+      "type": "LIST"
+    },
+    {
+      "title": "cleaning_days",
+      "description": "Réalisé par le gardien le lundi, mercredi et vendredi",
+      "type": "TEXT"
+    },
+    {
+      "title": "trash_days",
+      "description": "[{\"label\":\"Verre\",\"detail\":\"Mardi\"},{\"label\":\"Recyclage\",\"detail\":\"Lundi, Mercredi, Vendredi\"},{\"label\":\"Ordures\",\"detail\":\"Tous les jours (sauf le dimanche)\"}]",
+      "type": "LIST"
+    },
+    {
+      "title": "door_code",
+      "description": "19A23",
+      "type": "TEXT"
+    }
+  ],
+  "PROPERTY_2": [
+    {
+      "title": "keeper_hours",
+      "description": "[{\"label\":\"Lundi\",\"detail\":\"9:00 - 12:00\"},{\"label\":\"Mardi\",\"detail\":\"9:00 - 12:00\"},{\"label\":\"Mercredi\",\"detail\":\"9:00 - 12:00\"},{\"label\":\"Jeudi\",\"detail\":\"9:00 - 12:00\"},{\"label\":\"Vendredi\",\"detail\":\"9:00 - 12:00\"},{\"label\":\"Samedi\",\"detail\":\"9:00 - 12:00\"},{\"label\":\"Dimanche\",\"detail\":\"Repos\"}]",
+      "type": "LIST"
+    },
+    {
+      "title": "cleaning_days",
+      "description": "Réalisé par la société de ménage du lundi au samedi",
+      "type": "TEXT"
+    },
+    {
+      "title": "trash_days",
+      "description": "[{\"label\":\"Verre\",\"detail\":\"Mardi\"},{\"label\":\"Recyclage\",\"detail\":\"Lundi, Mercredi, Vendredi\"},{\"label\":\"Ordures\",\"detail\":\"Tous les jours (sauf le dimanche)\"}]",
+      "type": "LIST"
+    },
+    {
+      "title": "door_code",
+      "description": "29B33",
+      "type": "TEXT"
+    }
+  ]
+}

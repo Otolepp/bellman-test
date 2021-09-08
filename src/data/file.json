@@ -1,0 +1,102 @@
+{
+  "PROPERTY_1": [
+    {
+      "id": "FILE_1",
+      "title": "Ravalement de façade",
+      "type": "WORK",
+      "status": "OPEN",
+      "lastActivity": "Demande de devis auprès d'un architecte spécialisé (Haussmann Architecture)",
+      "lastActivityDate": "2019-01-23T00:00:00Z"
+    },
+    {
+      "id": "FILE_2",
+      "title": "Changement d'ampoules dans la cage d'escalier",
+      "type": "SMALL_WORK",
+      "status": "CLOSED",
+      "lastActivity": "Changement de 3 ampoules réalisé",
+      "lastActivityDate": "2019-01-27T00:00:00Z"
+    },
+    {
+      "id": "FILE_3",
+      "title": "Panne d'ascenseur",
+      "type": "ELEVATOR",
+      "status": "CLOSED",
+      "lastActivity": "L'ascenseur a été remis en service",
+      "lastActivityDate": "2019-02-12T00:00:00Z"
+    },
+    {
+      "id": "FILE_4",
+      "title": "Assemblée Générale 2019",
+      "type": "GENERAL_MEETING",
+      "status": "CLOSED",
+      "lastActivity": "L'assemblée générale s'est déroulée le 23 mars",
+      "lastActivityDate": "2019-03-23T00:00:00Z"
+    },
+    {
+      "id": "FILE_5",
+      "title": "Recours contre M. Razembik (charges impayées)",
+      "type": "LEGAL",
+      "status": "OPEN",
+      "lastActivity": "Dossier envoyé à maître Jobard (Huissier)",
+      "lastActivityDate": "2019-04-19T00:00:00Z"
+    },
+    {
+      "id": "FILE_6",
+      "title": "Réparation de la toiture",
+      "type": "WORK",
+      "status": "OPEN",
+      "lastActivity": "Demande de devis faite àl'entreprise Toiture de France",
+      "lastActivityDate": "2019-05-10T00:00:00Z"
+    },
+    {
+      "id": "FILE_7",
+      "title": "Fuite d'eau au 6ème étage",
+      "type": "SMALL_WORK",
+      "status": "OPEN",
+      "lastActivity": "Dossier transmis auprès de l'assurance",
+      "lastActivityDate": "2019-05-29T00:00:00Z"
+    },
+    {
+      "id": "FILE_8",
+      "title": "Panne d'ascenseur",
+      "type": "ELEVATOR",
+      "status": "CLOSED",
+      "lastActivity": "Demande d'intervention envoyée à la société WeMaintain",
+      "lastActivityDate": "2019-07-03T00:00:00Z"
+    },
+    {
+      "id": "FILE_9",
+      "title": "Traitement anti-termites",
+      "type": "SMALL_WORK",
+      "status": "OPEN",
+      "lastActivity": "Confirmation du passage de la société de traitement le 18 juillet",
+      "lastActivityDate": "2019-07-08T00:00:00Z"
+    }
+  ],
+  "PROPERTY_2": [
+    {
+      "id": "FILE_11",
+      "title": "Assemblée Générale 2019",
+      "type": "GENERAL_MEETING",
+      "status": "CLOSED",
+      "lastActivity": "L'assemblée générale s'est déroulée le 4 avril",
+      "lastActivityDate": "2019-02-04T00:00:00Z"
+    },
+    {
+      "id": "FILE_12",
+      "title": "Recours contre M. Dupond (charges impayées)",
+      "type": "LEGAL",
+      "status": "CLOSED",
+      "lastActivity": "Les fonds impayés ont été payés par M. Dupond",
+      "lastActivityDate": "2019-04-19T00:00:00Z"
+    },
+    {
+      "id": "FILE_13",
+      "title": "Étude de mise en place d'un ascenseur dans le batiment A",
+      "type": "WORK",
+      "status": "OPEN",
+      "lastActivity": "Devis reçu de la société OTIS",
+      "lastActivityDate": "2019-05-02T00:00:00Z"
+    }
+  ]
+}

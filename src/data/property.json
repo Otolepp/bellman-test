@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PROPERTY_1",
+    "name": "33 Lafayette",
+    "addressLine1": "33 rue Lafayette",
+    "postalCode": "75009",
+    "city": "Paris",
+    "country": "France",
+    "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Blv-haussmann-lafayette.jpg"
+  },
+  {
+    "id": "PROPERTY_2",
+    "name": "34 Champs Élysées",
+    "addressLine1": "34 avenue des Champs Élysées",
+    "postalCode": "75008",
+    "city": "Paris",
+    "country": "France",
+    "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Place-saint-georges.jpg"
+  }
+]

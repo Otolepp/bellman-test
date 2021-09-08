@@ -1,0 +1,114 @@
+{
+  "PROPERTY_1": [
+    {
+      "id": "CONTRACT_1",
+      "title": "Syndic de copropriété",
+      "trade": "PROPERTY_MANAGEMENT",
+      "status": "RUNNING",
+      "price": 2333,
+      "priceRecurrence": "year",
+      "startDate": "2019-01-01T00:00:00Z",
+      "thirdParty": "Bellman"
+    },
+    {
+      "id": "CONTRACT_2",
+      "title": "Maintenance ascenseur",
+      "trade": "ELEVATOR",
+      "status": "RUNNING",
+      "price": 735,
+      "priceRecurrence": "quarter",
+      "startDate": "2018-10-12T00:00:00Z",
+      "endDate": "2019-10-11T00:00:00Z",
+      "thirdParty": "We Maintain"
+    },
+    {
+      "id": "CONTRACT_3",
+      "title": "Assurance RC",
+      "trade": "INSURANCE",
+      "status": "FINISHED",
+      "price": 1267.22,
+      "priceRecurrence": "year",
+      "startDate": "2018-04-22T00:00:00Z",
+      "endDate": "2019-04-21T00:00:00Z",
+      "thirdParty": "AXA Assurances"
+    },
+    {
+      "id": "CONTRACT_4",
+      "title": "Assurance RC",
+      "trade": "INSURANCE",
+      "status": "RUNNING",
+      "price": 1030,
+      "priceRecurrence": "year",
+      "startDate": "2019-04-22T00:00:00Z",
+      "endDate": "2020-04-21T00:00:00Z",
+      "thirdParty": "ALLIANZ"
+    },
+    {
+      "id": "CONTRACT_5",
+      "title": "Nettoyage des parties communes",
+      "trade": "CLEANING",
+      "status": "RUNNING",
+      "price": 430,
+      "priceRecurrence": "month",
+      "startDate": "2019-02-01T00:00:00Z",
+      "endDate": "2020-01-31T00:00:00Z",
+      "thirdParty": "Mr. Propre Company"
+    },
+    {
+      "id": "CONTRACT_6",
+      "title": "Électricité des parties communes",
+      "trade": "ELECTRICITY",
+      "status": "RUNNING",
+      "price": 220,
+      "priceRecurrence": "quarter",
+      "startDate": "2019-01-01T00:00:00Z",
+      "endDate": "2019-12-31T00:00:00Z",
+      "thirdParty": "EDF"
+    },
+    {
+      "id": "CONTRACT_7",
+      "title": "Maintenance de la chaudière",
+      "trade": "HEATING",
+      "status": "RUNNING",
+      "price": 865,
+      "priceRecurrence": "year",
+      "startDate": "2019-01-01T00:00:00Z",
+      "endDate": "2019-12-31T00:00:00Z",
+      "thirdParty": "Engie"
+    },
+    {
+      "id": "CONTRACT_8",
+      "title": "Gardien",
+      "trade": "KEEPER",
+      "status": "RUNNING",
+      "price": 23180,
+      "priceRecurrence": "year",
+      "startDate": "2016-01-01T00:00:00Z",
+      "thirdParty": "Employé de l'immeuble"
+    }
+  ],
+  "PROPERTY_2": [
+    {
+      "id": "CONTRACT_11",
+      "title": "Électricité des parties communes",
+      "trade": "ELECTRICITY",
+      "status": "RUNNING",
+      "price": 120,
+      "priceRecurrence": "quarter",
+      "startDate": "2019-01-01T00:00:00Z",
+      "endDate": "2019-12-31T00:00:00Z",
+      "thirdParty": "EDF"
+    },
+    {
+      "id": "CONTRACT_12",
+      "title": "Maintenance de la chaudière",
+      "trade": "HEATING",
+      "status": "RUNNING",
+      "price": 555,
+      "priceRecurrence": "year",
+      "startDate": "2019-01-01T00:00:00Z",
+      "endDate": "2019-12-31T00:00:00Z",
+      "thirdParty": "Engie"
+    }
+  ]
+}
